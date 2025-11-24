@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register-exist user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1f359844-77b6-42c6-81ee-1327a1f256c4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b268dc3-15c9-4abe-9f74-790407952eb5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fae3a4b6-4f8b-4487-a8c8-b756f5e1260b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'resti halo2'</defaultValue>
+      <description></description>
+      <id>2b268dc3-15c9-4abe-9f74-790407952eb5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'iniRestiHalo123!'</defaultValue>
+      <description></description>
+      <id>fae3a4b6-4f8b-4487-a8c8-b756f5e1260b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
